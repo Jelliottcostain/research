@@ -1,5 +1,6 @@
 # research
 Python research repository.
+
 :Part A:
 Part A is a requsition program prototype using functions. It has very minimal function. 
 It can take a users basic information, take a total and then produce a 'receipt' as well as an approval or not from management.
